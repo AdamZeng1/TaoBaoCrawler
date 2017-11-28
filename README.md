@@ -5,7 +5,7 @@
 
 ![image](http://oxufz8asv.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-11-17%20%E4%B8%8B%E5%8D%883.26.46.png)
 
-此次使用的Python发行版为anaconda，因为无法使用解析json的方式进行爬取，所以使用了Phamton(不可视浏览器)对内容进行渲染之后再爬取内容。如果对于Phamton不熟悉，可以换为Chrome，毕竟Phamton的文档阅读也是需要一定的时间成本的。
+此次使用的Python发行版为Anaconda，因为无法使用解析json的方式进行爬取，所以使用了Phamton(不可视浏览器)对内容进行渲染之后再爬取内容。如果对于Phamton不熟悉，可以换为Chrome，毕竟Phamton的文档阅读也是需要一定的时间成本的。
 
 ```python
 spider.py
