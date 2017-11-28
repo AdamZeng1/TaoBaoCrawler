@@ -13,7 +13,7 @@ spider.py
 browser = webdriver.PhantomJS(service_args=SERVICE_ARGS)
 #这是使用的Phamton的代码，下面更改为使用Chrome的代码
 
-browser=wewebdriver.Chrome()
+browser=webdriver.Chrome()
 ```
 
 ```python
